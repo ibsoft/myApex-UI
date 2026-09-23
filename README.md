@@ -87,5 +87,5 @@ If you build on this, please use your own product name and branding.
 
 ---
 
-Made by [Ruben Mouradian — Reznikov Engineering](https://reznikov-engineering.com) and [Ioannis A. Bouhras] (https://www.cyberphylax.com).
+Made by [Ruben Mouradian — Reznikov Engineering](https://reznikov-engineering.com) and [ Ioannis A. Bouhras ] (https://www.cyberphylax.com).
 If you use it, a link back is appreciated (not required).
