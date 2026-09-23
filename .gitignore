@@ -1,0 +1,6 @@
+
+node_modules/
+.next/
+.next-https/
+*.tsbuildinfo
+.env.local
